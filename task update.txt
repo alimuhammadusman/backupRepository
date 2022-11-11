@@ -5,3 +5,5 @@ I have requested for the access of Splunk
 
 MTECH-5766: SPIKE: Directus: Setup "Content Preview" to Open ETAPI Preview Render Mode =>
 I have requested for the access of Directus
+
+Checking in
