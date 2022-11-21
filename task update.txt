@@ -1,0 +1,9 @@
+MTECH-6004. => PR has been generated.
+
+MTECH-5942: Fix ETAPI Splunk Logging for QA Environment =>
+I have requested for the access of Splunk
+
+MTECH-5766: SPIKE: Directus: Setup "Content Preview" to Open ETAPI Preview Render Mode =>
+I have requested for the access of Directus
+
+Checking in
